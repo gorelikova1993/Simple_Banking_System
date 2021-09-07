@@ -1,0 +1,17 @@
+Topics/
+.gradle
+gradle
+.idea
+out
+*/task/build
+
+*.iml
+*.class
+*.yaml
+*.html
+*.css
+*.js
+
+*.bat
+
+gradlew
